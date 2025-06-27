@@ -25,28 +25,14 @@
 
 ---
 
-<p align="center"><strong>Para usar, copie o código do projeto desejado:</strong></p>
-
-<div align="center">
-
-<pre>
-<code>
-javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/refs/heads/main/SCRIPT.js").then(t=>t.text()).then(eval);
-</code>
-</pre>
-
-</div>
-
----
-
 <p align="center">
   <sub><i>clique abaixo para entrar no servidor do Discord ou doar</i></sub>
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/centralscripts"><img width="12%" alt="Discord" title="Discord" src="https://i.imgur.com/r0YUgMR.png"/></a>
+  <a href="https://discord.gg/schoolbots"><img width="12%" alt="Discord" title="Discord" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
-  <a href="https://pixgg.com/im_snow"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
+  <a href="https://pixgg.com/SrRaposo"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
 </p>
 
 <p align="center">
