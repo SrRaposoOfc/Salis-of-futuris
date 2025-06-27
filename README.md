@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/C9wQOe7.png" width="100px" alt="Logo"/>
+  <img src="https://i.imgur.com/9ZTsZ0J.png" width="100px" alt="Logo"/>
 </div>
 
 <h2 align="center"><strong>Salis of Futuris</strong></h2>
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/CHUfGIq.png" width="150px" alt="SrRaposo Profile"/>
+  <img src="https://i.imgur.com/nVL2vwt.png" width="150px" alt="SrRaposo Profile"/>
   <h3 style="color: #ff0000; animation: pulse 2s infinite;">Criado por Sr.RaposoOfc!</h3>
 </div>
 
